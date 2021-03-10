@@ -7,6 +7,6 @@
 * Ricardo Martins slides and other supporting materials are [available online](https://github.com/CIBIT-ICNAS/clube-ciencia-viva).
 
 
-[capa](https://github.com/CIBIT-ICNAS/clube-ciencia-viva/blob/main/files/capa.png)
+![capa](https://github.com/rmartins-net/cibit-science-club-2020/blob/main/materials/cover_slides.png)
 
 
