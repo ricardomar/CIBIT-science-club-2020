@@ -4,7 +4,7 @@
 * All the materials used in the **CIBIT Science Club 2020** were [shared online](https://github.com/CIBIT-ICNAS/clube-ciencia-viva) in a public open repository. 
 
 ### Session #5: How do Scientists Study the Brain ? - Magnetic Resonance Brain Imaging
-* Ricardo Martins slides and other supporting materials are [available online](https://github.com/CIBIT-ICNAS/clube-ciencia-viva).
+* Ricardo Martins' slides and other supporting materials are [available online](https://github.com/CIBIT-ICNAS/clube-ciencia-viva).
 
 
 ![cover_slides](https://github.com/rmartins-net/cibit-science-club-2020/blob/main/materials/cover_slides.png)
