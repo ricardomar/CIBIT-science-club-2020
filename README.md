@@ -1,3 +1,2 @@
 # CIBIT science club 2020
-## Martim de Freitas school
-Ricardo Martins presentation - CIBIT Science Club 2020 - Martim de Freitas school
+Talking science to the kids: the example of the Clube Ciência Viva developed by CIBIT and the Martim de Freitas school
